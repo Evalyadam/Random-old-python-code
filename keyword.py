@@ -10,6 +10,3 @@ if keyword==("survey"):
 	result= (q1 + q2)
 	print(result)
 	print("i couldnt get it to display the acurate ammount :sad emoji:")
-
-
-if keyword==("sprite"):
