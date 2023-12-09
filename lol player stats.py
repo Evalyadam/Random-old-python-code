@@ -1,6 +1,6 @@
 print("here are the avarage lol player stats")
 
-
+#get it? league of legends? funny 2022 shit?
 
 skill_issues= (78375)
 print("skill issues in total:");
