@@ -1,5 +1,5 @@
 keyword=input("insert keyword for code (survey, classic start): ")
-
+#there is always good in bad, this py file is an example; I love it.
 if keyword==("classic start"):
 	print("Hello, world!")
 
