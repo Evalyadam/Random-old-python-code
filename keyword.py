@@ -1,4 +1,4 @@
-keyword=input("insert keyword for code: ")
+keyword=input("insert keyword for code (survey, classic start): ")
 
 if keyword==("classic start"):
 	print("Hello, world!")
